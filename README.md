@@ -1,4 +1,3 @@
-# Excel-sales-Dataset-Project
 ## 📊 Retail Sales Performance Analysis in Excel
 
 **A comprehensive data analysis project examining retail sales performance, customer demographics, and product distribution using advanced Microsoft Excel techniques.**
